@@ -7,4 +7,9 @@ Social linc https://www.facebook.com/ORyoLrld.
 * I always do my best to achieve professional goals. 
 * I can deal with difficult situations.
 * I am fond of doing sports.
- 
+ 5. Programming languages that I am familiar with at a basic level:
+ * Pascal
+ * C++
+ * Phyton
+ * Rubi
+ * Java
